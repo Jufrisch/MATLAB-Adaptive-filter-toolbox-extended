@@ -24,6 +24,7 @@ Plot the PDF of the error history
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/89211293/163632353-0723ec3c-662d-45e1-9a8b-82ba3a3115c9.png">
 
 #Examples
+
 I provide examples of some analysis in the file analyze_example.m
 
 
