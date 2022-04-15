@@ -13,10 +13,11 @@ This is in order to compare the desired signals with the predictive filters outp
 For example using either
 1. plot(klms.y_hist)
 2. klms.plotPred()
+(Also plot the desired signal for comparison and set x limits)
 <img width="334" alt="image" src="https://user-images.githubusercontent.com/89211293/163630640-b6e4dd80-12be-4fe0-8568-b25f0ebce267.png">
 
-Plot the PDF of the Error using
-For example using
+Plot the PDF of the error history
+
 1. kmeeq.plotPdf()
 
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/89211293/163632353-0723ec3c-662d-45e1-9a8b-82ba3a3115c9.png">
