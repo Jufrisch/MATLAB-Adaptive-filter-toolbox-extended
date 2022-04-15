@@ -3,6 +3,7 @@ Added various features for easier in-depth analysis to this Matlab Toolbox code 
 
 Original code found here: https://github.com/slichtenheld/MATLAB-Adaptive-Filter-Toolbox
 
+Algorithms are described extensively here:
 S. Zhao, B. Che, and J. Principe, “Kernel Adaptive Filtering with Maximum Correntropy Criterion,” Proceedings of International Joint Conference on Neural Networks, pp. 2012–2017.
 
 # Features added
