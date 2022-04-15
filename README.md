@@ -25,6 +25,6 @@ Plot the PDF of the error history
 
 # Examples
 
-I provide examples of some analysis in the file analyze_example.m
+I provide examples of performing analysis in the file analyze_example.m
 
 
