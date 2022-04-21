@@ -2,6 +2,12 @@
 
 I recently added an LMS MCC module to the toolbox.
 
+
+<img width="785" alt="image" src="https://user-images.githubusercontent.com/89211293/164516608-16197db6-e9d1-4f04-80f9-131c1de30599.png">
+
+
+
+
 Added various features for more accessible in-depth analysis to this Matlab Toolbox code for LMS, KLMS, KMEE (QIP and Shannon), QKLMS (MSE, MEE, and MCC), and RLS. 
 
 **I will be adding QKRLS for MSE, MEE, and MCC in the near future.
